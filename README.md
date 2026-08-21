@@ -4,7 +4,7 @@ A simple todo list app built while learning **Redux Toolkit** — covers global 
 
 ## 📸 Preview
 
-![Home page preview](./src/assets/home-page.png)
+![Home page preview]([./src/assets/home-page.png](https://github.com/yashn2903/redux-toolkit-todo-app/blob/main/src/assets/home%20page.png))
 
 ## ✨ Features
 
